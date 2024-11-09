@@ -1,14 +1,13 @@
-## Hi there, I'm Ebaa! 👋
+<h1 align="center">Hi there, I'm Ebaa! 👋</h1>
 
-I'm a junior computer science student, interested in backend development and low-level programming concepts.
+<h3 align="center">I'm a junior computer science student, interested in backend development and low-level programming concepts.</h3>
 
-Looking forward to learn more!
-<!-- - 💻 Tech tools:
-  
--->
-- 📫 How to reach me: ...
-  🔗 LinkedIn: www.linkedin.com/in/ebaaaboelnaga
-  🔗 Gmail: ebaaaboelnaga@gmail.com
+<h4 align="center">Looking forward to learn more!</h4>
+
+## 📫 How to reach me:
+<br>
+  🔗 LinkedIn: www.linkedin.com/in/ebaaaboelnaga <br>
+  🔗 Gmail: ebaaaboelnaga@gmail.com <br>
 <!--
 **ebaa17/ebaa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
