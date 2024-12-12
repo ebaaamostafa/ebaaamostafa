@@ -4,10 +4,31 @@
 
 <h4 align="center">Looking forward to learn more!</h4>
 
-## 📫 How to reach me:
+
 <br>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaa17&show_icons=true&locale=en" alt="ebaa17" /></p>
+
+<br>
+<h3>📫 How to reach me:</h3>
+<p align="center">
+  <a href="mailto:ebaaaboelnaga@gmail.com">
+    <img alt="Email" height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a>
+  <a href="https://linkedin.com/in/ebaaaboelnaga" target="_blank">
+    <img alt="LinkedIn" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  </a> <!--
+  <a href="https://codeforces.com/profile/ebaaa" target="_blank">
+    <img alt="Codeforces" height="40" src="https://img.icons8.com/ios/452/codeforces.png" />
+  </a> -->
+</p>
+
+
+
+<!--
   🔗 LinkedIn: www.linkedin.com/in/ebaaaboelnaga <br>
   🔗 Gmail: ebaaaboelnaga@gmail.com <br>
+-->
+  
 <!--
 **ebaa17/ebaa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
