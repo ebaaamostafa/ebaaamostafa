@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ebaa! 👋</h1>
 
-<h3 align="center">I'm a junior computer science student, interested in backend development and low-level programming concepts.</h3>
+<h3 align="center">I'm a computer science student, interested in cloud technologies, AI, and low-level programming concepts.</h3>
 
 <h4 align="center">Looking forward to learn more!</h4>
 
@@ -9,6 +9,7 @@
 <!-- <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaaamostafa&show_icons=true&locale=en" alt="ebaaamostafa" /></p>
  -->
 <br>
+<!--
 <h3>📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:ebaaaboelnaga@gmail.com">
@@ -22,6 +23,14 @@
   </a> -->
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=react&hide_border=true" width="48%" />
+
+</p> <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaaamostafa&layout=compact&theme=react&hide_border=true" width="40%" />
+</p>
 
 
 <!--
