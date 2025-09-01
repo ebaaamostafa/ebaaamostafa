@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋 I'm Ebaa!</h1>
 
-###
-
-<p align="center">🚀 Backend Developer | ☁️ Cloud & AI Enthusiast | 💡 Lifelong Learner</p>
+---
 
 ###
 
