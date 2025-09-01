@@ -1,10 +1,9 @@
 <h1 align="center">Hey 👋 I'm Ebaa!</h1>
 
----
 
 ###
 
-<h3 align="center">⚒️ Technical Skills</h3>
+<h3 align="center">My used languages and tools⚒️ </h3>
 
 <div align="center">
   
@@ -47,6 +46,7 @@
 </div>
 
 ###
+###
 
 <div align="center">
   <a href="mailto:ebaaaboelnaga@gmail.com" target="_blank">
@@ -69,14 +69,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /><br><br>
   <img src="https://github-profile-trophy.vercel.app?username=ebaaamostafa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebaaamostafa/ebaaamostafa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebaaamostafa/ebaaamostafa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ebaaamostafa/ebaaamostafa/output/pacman-contribution-graph.svg">
-</picture>
