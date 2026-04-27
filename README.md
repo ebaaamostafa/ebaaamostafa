@@ -27,7 +27,7 @@
 
   <!-- Tools -->
   <h4>Tools & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm,idea,clion,linux,ubuntu" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,ubuntu" height="50" />
 
   <!-- AI / Data / ML -->
   <h4>AI / Data / ML</h4>
