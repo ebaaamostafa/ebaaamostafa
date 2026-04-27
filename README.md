@@ -1,55 +1,47 @@
-<h1 align="center">Hey 👋 I'm Ebaa!</h1>
+<h1 align="center">Ebaa Mostafa</h1>
 
+### 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=10e8e8&center=true&vCenter=true&width=700&lines=Cloud+Architect;Backend+Developer;Growing+Interest+in+GenAI;Learning+for+a+lifetime...">
+</p>
 
-###
-
-<h3 align="center">My used languages and tools⚒️ </h3>
+<h3 align="center">My Tech Stack ⚒️</h3>
 
 <div align="center">
-  
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="sql logo" />
-  <img width="10" />
 
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo" />
-  <img width="10" />
+  <!-- Programming Languages -->
+  <h4>Programming Languages</h4>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,dart" height="50" />
+
+  <!-- Backend & Frameworks -->
+  <h4>Backend & Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flutter" height="50" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlserver logo" />
+  <h4>Databases</h4>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" height="50" />
+
+  <!-- Cloud & DevOps -->
+  <h4>Cloud & DevOps ☁️</h4>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux" height="50" />
 
   <!-- Tools -->
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  <h4>Tools & Platforms</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm,idea,clion,linux,ubuntu" height="50" />
+
+  <!-- AI / Data / ML -->
+  <h4>AI / Data / ML</h4>
+  <img src="https://skillicons.dev/icons?i=tensorflow,aws" height="50" />
+
+  <!-- System & Architecture -->
+  <h4>System & Architecture</h4>
+  <img src="https://skillicons.dev/icons?i=redis,rabbitmq" height="50" />
+
 </div>
 
-###
-###
-
 <div align="center">
-  <a href="mailto:ebaaaboelnaga@gmail.com" target="_blank">
+   <h2 align="center">Contact me</h2>
+ <a href="mailto:ebaaaboelnaga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/ebaaaboelnaga/" target="_blank">
@@ -69,6 +61,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /><br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=ebaaamostafa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="readme stats" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebaaamostafa&theme=dracula" />
+</div>
+<br>
+<div align="center">
+
+</div>
+
