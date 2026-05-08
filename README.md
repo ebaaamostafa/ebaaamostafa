@@ -62,7 +62,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="readme stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="readme stats" />
 </div>
 <br>
 <div align="center">
