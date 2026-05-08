@@ -61,15 +61,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="readme stats" />
+  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="readme stats" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebaaamostafa&theme=dracula" />
+<img src="https://github-profile-trophy.vercel.app/?username=ebaaamostafa&theme=onedark&row=1&column=6&no-frame=true" alt="ebaaamostafa trophies"/>
 </div>
 <br>
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebaaamostafa&theme=react" />
+</div>
+<br>
 
-</div>
 
