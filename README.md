@@ -5,6 +5,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=10e8e8&center=true&vCenter=true&width=700&lines=Cloud+Architect;Backend+Developer;Growing+Interest+in+GenAI;Learning+for+a+lifetime...">
 </p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="readme stats" />
+</div>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ebaaamostafa&theme=onedark&row=1&column=6&no-frame=true" alt="ebaaamostafa trophies"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebaaamostafa&theme=react" />
+</div>
+<br>
+
 <h3 align="center">My Tech Stack ⚒️</h3>
 
 <div align="center">
@@ -60,18 +74,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ebaaamostafa&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebaaamostafa&show_icons=true&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="readme stats" />
-</div>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ebaaamostafa&theme=onedark&row=1&column=6&no-frame=true" alt="ebaaamostafa trophies"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebaaamostafa&theme=react" />
-</div>
-<br>
+
 
 
