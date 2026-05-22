@@ -25,31 +25,24 @@
 
   <!-- Programming Languages -->
   <h4>Programming Languages</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,dart" height="50" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js" height="50" />
 
   <!-- Backend & Frameworks -->
   <h4>Backend & Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flutter" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi" height="50" />
 
   <!-- Databases -->
   <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" height="50" />
 
   <!-- Cloud & DevOps -->
   <h4>Cloud & DevOps ☁️</h4>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" height="50" />
 
   <!-- Tools -->
   <h4>Tools & Platforms</h4>
   <img src="https://skillicons.dev/icons?i=git,github,postman,linux,ubuntu" height="50" />
 
-  <!-- AI / Data / ML -->
-  <h4>AI / Data / ML</h4>
-  <img src="https://skillicons.dev/icons?i=tensorflow,aws" height="50" />
-
-  <!-- System & Architecture -->
-  <h4>System & Architecture</h4>
-  <img src="https://skillicons.dev/icons?i=redis,rabbitmq" height="50" />
 
 </div>
 
